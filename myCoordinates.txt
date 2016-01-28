@@ -1,0 +1,6 @@
+Latitude: 43.75779918468004
+Longitude: -79.43712549616303
+
+
+Latitude:43.650893
+Longitude: -79.378381;			//for 123 Yonge St.
